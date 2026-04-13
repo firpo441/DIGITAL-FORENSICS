@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>6.0</SchemaVersion>
+  <CreatedDate>2026/04/13 11:22:07 (EAT)</CreatedDate>
+  <ModifiedDate>2026/04/13 11:22:11 (EAT)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.22.1</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.22.1</SavedByAutopsyVersion>
+  <Case>
+    <Name>001_20260413_112207</Name>
+    <DisplayName>001</DisplayName>
+    <Number/>
+    <Examiner>farooq</Examiner>
+    <ExaminerPhone>0700348613</ExaminerPhone>
+    <ExaminerEmail>farooqkiirya2@gmail.com</ExaminerEmail>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <ContentProvider>
+    <Name/>
+  </ContentProvider>
+  <OriginalCase/>
+</AutopsyCase>
